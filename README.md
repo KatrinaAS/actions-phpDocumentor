@@ -1,6 +1,6 @@
 # phpDocumentor Github Action
 
-Can be used to generate documentation for PHP applications up to PHP version 7.0
+Can be used to generate documentation for PHP applications up to PHP version 8.0
 
 ## Inputs
 
